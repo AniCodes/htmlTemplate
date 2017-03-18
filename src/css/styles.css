@@ -1,0 +1,8 @@
+.wrap {
+  width: 90%; }
+
+@media screen and (max-width: 1200px) {
+  .wrap {
+    width: 50%; } }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5zYXNzIiwibWVkaWEuc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQTtFQUNDLFdBQVUsRUFBSTs7QUNGZjtFQUNDO0lBQ0MsV0FBVSxFQUFJLEVBQUEiLCJmaWxlIjoic3R5bGVzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgXCJmb250c1wiO1xuLndyYXAge1xuXHR3aWR0aDogOTAlOyB9XG5AaW1wb3J0IFwibWVkaWFcIjtcbiIsIkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDEyMDBweCkge1xuXHQud3JhcCB7XG5cdFx0d2lkdGg6IDUwJTsgfSB9XG4vL0BtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDk5MnB4KVxuLy9AbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA3NjhweClcbi8vQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNTIwcHgpXG4iXX0= */
